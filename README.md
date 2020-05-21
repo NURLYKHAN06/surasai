@@ -1,4 +1,4 @@
-## Surasai - social network
+## Surasai - social network (release 2019 september)
 
 demo: https://surasai.info/  
 
